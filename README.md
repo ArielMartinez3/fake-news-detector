@@ -90,7 +90,7 @@ fake-news-detector/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/fake-news-detector.git
+git clone https://github.com/ArielMartinez3/fake-news-detector.git
 cd fake-news-detector
 
 # Create and activate virtual environment
